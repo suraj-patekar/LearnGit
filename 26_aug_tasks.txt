@@ -3,5 +3,5 @@
 3) install python , goto cmd and write jupyter notebook
 4) replacement of 3rd step is install anaconda  --> practiced pandas
 5) raise miniconda3 request on VM  --> raised request for same
-6) attended SOG support  KT meeting
-7) attended Durable subgroup meeting
+6) attended SOG support  KT meeting at 9pm
+7) attended Durable subgroup meeting at 7pm
