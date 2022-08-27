@@ -1,0 +1,7 @@
+1) access wise 1st story ---> raised access for SQL server management studio
+2) check cawa request   --> in progress
+3) install python , goto cmd and write jupyter notebook
+4) replacement of 3rd step is install anaconda  --> practiced pandas
+5) raise miniconda3 request on VM  --> raised request for same
+6) attended SOG support  KT meeting
+7) attended Durable subgroup meeting
